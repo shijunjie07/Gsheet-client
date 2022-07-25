@@ -1,0 +1,7 @@
+name: gscheet_client
+dependencies:
+  - python=3.9.6
+  - pandas
+  - gspread
+  - oauth2client
+  - df2gspread
